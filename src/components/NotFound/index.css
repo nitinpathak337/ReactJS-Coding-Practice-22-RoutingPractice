@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.image {
+  width: 85%;
+}
+.heading {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 45px;
+  color: #551e53;
+}
